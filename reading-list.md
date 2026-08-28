@@ -15,7 +15,7 @@ the identifier given.
 | WCPFC | [https://meetings.wcpfc.int/](https://meetings.wcpfc.int/) |
 | SPC | [https://fame.spc.int/](https://fame.spc.int/) |
 | CCSBT | [https://www.ccsbt.org/](https://www.ccsbt.org/) |
-| ISC | [https://isc.fra.go.jp/](https://isc.fra.go.jp/) — not reachable when checked; confirm before circulating |
+| ISC | [https://isc.fra.go.jp/working_groups/index.html](https://isc.fra.go.jp/working_groups/index.html) |
 
 ---
 
@@ -182,26 +182,55 @@ Not mirrored here. Each remains published by the organisation that issued it.
 submitted to the ISC … Document not to be cited without author's permission.”* Author
 permission is needed before these are circulated.
 
-- ISC_2025_SHARKWG-1-01 — `ISC_2025_SHARKWG-1-01`
-- ISC_2025_SHARKWG-1-02 — `ISC_2025_SHARKWG-1-02`
-- ISC_2025_SHARKWG-1-03 — `ISC_2025_SHARKWG-1-03`
-- ISC_2025_SHARKWG-1-04 — `ISC_2025_SHARKWG-1-04`
-- ISC_2025_SHARKWG-1-05 — `ISC_2025_SHARKWG-1-05`
-- ISC_21_SHARKWG_2_01 — `ISC_21_SHARKWG_2_01`
-- ISC_21_SHARKWG_2_02 — `ISC_21_SHARKWG_2_02`
-- ISC_21_SHARKWG_2_03 — `ISC_21_SHARKWG_2_03`
-- ISC_21_SHARKWG_2_14 — `ISC_21_SHARKWG_2_14`
-- ISC_21_SHARKWG_2_15 — `ISC_21_SHARKWG_2_15`
-- ISC_22_SHARKWG_3_1 — `ISC_22_SHARKWG_3_1`
-- ISC_23_SHARKWG-1-1 — `ISC_23_SHARKWG-1-1`
-- ISC_23_SHARKWG-1-11 — `ISC_23_SHARKWG-1-11`
-- ISC_23_SHARKWG-1-12 — `ISC_23_SHARKWG-1-12`
-- ISC_23_SHARKWG-1-2 — `ISC_23_SHARKWG-1-2`
-- ISC_23_SHARKWG-1-3 — `ISC_23_SHARKWG-1-3`
-- ISC_23_SHARKWG-1-7 — `ISC_23_SHARKWG-1-7`
+- [Update on standardized catch rates for blue shark (Prionace glauca) in the 2006-2022 Mexican Pacific longline fisheries based upon a shark scientific observer program](https://isc.fra.go.jp/pdf/SHARK/ISC25_SHARK_1/ISC_2025_SHARKWG-1-01.pdf) — `ISC_2025_SHARKWG-1-01`
+- [Spatio-temporal model for CPUE standardization: Application of blue shark caught by Japanese offshore and distant water shallow-set longliner in the western North Pacific up to 2023](https://isc.fra.go.jp/pdf/SHARK/ISC25_SHARK_1/ISC_2025_SHARKWG-1-02.pdf) — `ISC_2025_SHARKWG-1-02`
+- [Spatio-temporal model for CPUE standardization: Application to blue shark caught by longline of Japanese research and training vessels in the western and central North Pacific up to 2023](https://isc.fra.go.jp/pdf/SHARK/ISC25_SHARK_1/ISC_2025_SHARKWG-1-03.pdf) — `ISC_2025_SHARKWG-1-03`
+- [Updated standardized CPUE and catch estimation of the blue shark caught by the Taiwanese large scale tuna longline fishery in the North Pacific Ocean](https://isc.fra.go.jp/pdf/SHARK/ISC25_SHARK_1/ISC_2025_SHARKWG-1-04.pdf) — `ISC_2025_SHARKWG-1-04`
+- [Updated blue shark CPUE from US Hawai’i longline fisheries; 2002-2023](https://isc.fra.go.jp/pdf/SHARK/ISC25_SHARK_1/ISC_2025_SHARKWG-1-05.pdf) — `ISC_2025_SHARKWG-1-05`
+- [Spatio-temporal model for CPUE standardization: Application to blue shark caught by Japanese offshore and distant water shallow-set longliner in the western North Pacific](https://isc.fra.go.jp/pdf/SHARK/ISC21_SHARK_2/ISC_21_SHARKWG_2_01.pdf) — `ISC_21_SHARKWG_2_01`
+- [The preliminary analysis of standardized CPUE for the catch data of blue shark by Japanese longliner using the finite mixture model](https://isc.fra.go.jp/pdf/SHARK/ISC21_SHARK_2/ISC_21_SHARKWG_2_02.pdf) — `ISC_21_SHARKWG_2_02`
+- [Spatio-temporal model for CPUE standardization: Application to blue shark caught by longline of Japanese research and training vessels in the western and central North Pacific](https://isc.fra.go.jp/pdf/SHARK/ISC21_SHARK_2/ISC_21_SHARKWG_2_03.pdf) — `ISC_21_SHARKWG_2_03`
+- [Updated standardized CPUE and catch estimation of the blue shark caught by the Taiwanese large scale tuna longline fishery in the North Pacific Ocean](https://isc.fra.go.jp/pdf/SHARK/ISC21_SHARK_2/ISC_21_SHARKWG_2_14.pdf) — `ISC_21_SHARKWG_2_14`
+- [Update on standardized catch rates for blue shark (Prionace glauca) in the 2006-2020 Mexican Pacific longline fishery based upon a shark scientific observer program](https://isc.fra.go.jp/pdf/SHARK/ISC21_SHARK_2/ISC_21_SHARKWG_2_15.pdf) — `ISC_21_SHARKWG_2_15`
+- [Discussions on the issues of composite CPUE and the model ensemble approach for blue shark in the North Pacific Ocean](https://isc.fra.go.jp/pdf/SHARK/ISC22_SHARK_3/ISC_22_SHARKWG_3_1.pdf) — `ISC_22_SHARKWG_3_1`
+- [Revisit of data filtering for CPUE of shortfin mako, Isurus oxyrinchus, caught by Japanese shallow-set longliner in the North Pacific](https://isc.fra.go.jp/pdf/SHARK/ISC23_SHARK_1/ISC_23_SHARKWG-1-1.pdf) — `ISC_23_SHARKWG-1-1`
+- [Update on standardized catch rates for mako shark (Isurus oxyrinchus) in the 2006-2022 Mexican Pacific longline fishery based upon a shark scientific observer program](https://isc.fra.go.jp/pdf/SHARK/ISC23_SHARK_1/ISC_23_SHARKWG-1-11.pdf) — `ISC_23_SHARKWG-1-11`
+- [Updated standardized CPUE and historical catch estimate of the shortfin mako shark caught by Taiwanese large-scale tuna longline fishery in the North Pacific Ocean](https://isc.fra.go.jp/pdf/SHARK/ISC23_SHARK_1/ISC_23_SHARKWG-1-12.pdf) — `ISC_23_SHARKWG-1-12`
+- [Spatio-temporal model for CPUE standardization: Application to shortfin mako caught by Japanese offshore and distant water shallow-set longliner in the western and central North Pacific](https://isc.fra.go.jp/pdf/SHARK/ISC23_SHARK_1/ISC_23_SHARKWG-1-2.pdf) — `ISC_23_SHARKWG-1-2`
+- [Spatio-temporal model for CPUE standardization: Application to shortfin mako caught by longline of Japanese research and training vessels in the western and central North Pacific](https://isc.fra.go.jp/pdf/SHARK/ISC23_SHARK_1/ISC_23_SHARKWG-1-3.pdf) — `ISC_23_SHARKWG-1-3`
+- [Representativeness of two Japanese longline CPUEs as abundance index of North Pacific shortfin mako](https://isc.fra.go.jp/pdf/SHARK/ISC23_SHARK_1/ISC_23_SHARKWG-1-7.pdf) — `ISC_23_SHARKWG-1-7`
 
 **28 other ISC papers** (ALBWG, BILLWG, PBFWG) carry no such notice anywhere in
-the document. Link to the ISC site rather than resharing the files.
+the document.
+
+- [Developing abundance indices for Taiwanese PBF longline fishery using GLMM and VAST, incorporating SST and size data](https://isc.fra.go.jp/pdf/PBF/ISC24_PBF_1/2024_ISC_PBFWG-1_05.pdf) — `2024_ISC_PBFWG-1_05`
+- [Input data of Pacific bluefin tuna fisheries for stock assessment model, Stock Synthesis 3; Update for 2024 assessment](https://isc.fra.go.jp/pdf/PBF/ISC24_PBF_1/2024_ISC_PBFWG-1_07.pdf) — `2024_ISC_PBFWG-1_07`
+- [Assumptions and its alternatives for the assessment model in the 2024 Stock Assessment of Pacific Bluefin Tuna](https://isc.fra.go.jp/pdf/PBF/ISC24_PBF_1/2024_ISC_PBFWG-1_08.pdf) — `2024_ISC_PBFWG-1_08`
+- [Consideration about a possible unseen change in catchability in the standardized CPUE for the robustness test of the PBF MSE](https://isc.fra.go.jp/pdf/PBF/ISC24_PBF_2/2024_ISC_PBFWG-2_06.pdf) — `2024_ISC_PBFWG-2_06`
+- [Juvenile index of North Pacific albacore tuna: Japanese longline CPUE standardization using a spatiotemporal model](https://isc.fra.go.jp/pdf/ALB/ISC23_ALB_1/ISC23_ALBWG-01_02.pdf) — `ISC23_ALBWG-01_02`
+- [CPUE standardization for North Pacific albacore caught by Japanese longline fishery from 1996 to 2021 in Area 2 and Quarter 2](https://isc.fra.go.jp/pdf/ALB/ISC23_ALB_1/ISC23_ALBWG-01_03.pdf) — `ISC23_ALBWG-01_03`
+- [Additional Japanese longline logbook data analysis for adult albacore tuna CPUE](https://isc.fra.go.jp/pdf/ALB/ISC23_ALB_1/ISC23_ALBWG-01_08.pdf) — `ISC23_ALBWG-01_08`
+- [Selection of an abundance index and its selectivity for the 2024 PBF assessment](https://isc.fra.go.jp/pdf/PBF/ISC23_PBF_2/ISC23_PBF_2_07.pdf) — `ISC23_PBF_2_07`
+- [Additional Japanese longline logbook data analysis on CPUE of adult North Pacific albacore tuna](https://isc.fra.go.jp/pdf/ALB/ISC24_ALB_1/ISC24-ALBWG-01_04.pdf) — `ISC24-ALBWG-01_04`
+- [Preliminary analysis for size-based abundance indices considering multiple latent spatial fields](https://isc.fra.go.jp/pdf/ALB/ISC24_ALB_1/ISC24-ALBWG-01_06.pdf) — `ISC24-ALBWG-01_06`
+- [An update of the standardized abundance index for the US surface fleet in the North Pacific](https://isc.fra.go.jp/pdf/ALB/ISC25_ALB_1/ISC25-ALBWG-01_01.pdf) — `ISC25-ALBWG-01_01`
+- [Standardized CPUE and size for North Pacific Albacore by Japanese Longline using VAST package](https://isc.fra.go.jp/pdf/ALB/ISC25_ALB_1/ISC25-ALBWG-01_02.pdf) — `ISC25-ALBWG-01_02`
+- [CPUE standardization considering spatial fish-size distribution](https://isc.fra.go.jp/pdf/ALB/ISC25_ALB_1/ISC25-ALBWG-01_03.pdf) — `ISC25-ALBWG-01_03`
+- [Spatiotemporal modelling for size-specific CPUE standardization of albacore tuna in the north Pacific Ocean caught by Taiwanese longline fisheries](https://isc.fra.go.jp/pdf/ALB/ISC25_ALB_1/ISC25-ALBWG-01_04.pdf) — `ISC25-ALBWG-01_04`
+- [Update Japanese longline abundance index of Pacific blue marlin (Makaira nigricans) estimated by the habitat model](https://isc.fra.go.jp/pdf/BILL/ISC20_BILL_3/ISC_20_BILLWG-03_01.pdf) — `ISC_20_BILLWG-03_01`
+- [Preliminary analysis for the CPUE standardization of the Pacific blue marlin using Japanese longline logbook and the R software package R-INLA](https://isc.fra.go.jp/pdf/BILL/ISC20_BILL_3/ISC_20_BILLWG-03_02.pdf) — `ISC_20_BILLWG-03_02`
+- [CPUE standardization of blue marlin (Makaira nigricans) for the Taiwanese distant‐water tuna longline fishery in the Pacific Ocean during 1971 - 2019](https://isc.fra.go.jp/pdf/BILL/ISC20_BILL_3/ISC_20_BILLWG-03_03.pdf) — `ISC_20_BILLWG-03_03`
+- [Standardization of Pacific Blue Marlin Catch Per Unit Effort in the Hawaii Longline Fishery from 1995-2019](https://isc.fra.go.jp/pdf/BILL/ISC20_BILL_3/ISC_20_BILLWG-03_04.pdf) — `ISC_20_BILLWG-03_04`
+- [CPUE and Catch at Size for Pacific Bluefin tuna (Thunnus Orientalis) caught by Japanese coastal and offshore longline](https://isc.fra.go.jp/pdf/PBF/ISC21_PBF_2/ISC_21_PBFWG_2_01_Tsukahara.pdf) — `ISC_21_PBFWG_2_01`
+- [Update of relative CPUE (up to 2021) of Taiwanese PBF fisheries using delta-generalized linear mixed models (GLMM) and vector-auto-regressive spatiotemporal model (VAST)](https://isc.fra.go.jp/pdf/PBF/ISC21_PBF_2/ISC_21_PBFWG_2_02_Chang.pdf) — `ISC_21_PBFWG_2_02`
+- [Standardization of Western and Central North Pacific Swordfish (Xiphias gladius) Catch Per Unit Effort in the Hawai’i Longline Fishery from 1995–2021](https://isc.fra.go.jp/pdf/BILL/ISC22_BILL_2/ISC_22_BILLWG-02_02.pdf) — `ISC_22_BILLWG-02_02`
+- [CPUE Standardization for Pacific Swordfish (Xiphias gladius) caught by the Japanese longline fishery: A GLMM analysis using the R software package R-INLA](https://isc.fra.go.jp/pdf/BILL/ISC22_BILL_2/ISC_22_BILLWG-02_06.pdf) — `ISC_22_BILLWG-02_06`
+- [Catch, length data and standardized CPUE of swordfish caught by the Taiwanese fisheries in North Pacific Ocean](https://isc.fra.go.jp/pdf/BILL/ISC22_BILL_2/ISC_22_BILLWG-02_07.pdf) — `ISC_22_BILLWG-02_07`
+- [Standardized CPUE for Pacific Bluefin tuna caught by Japanese coastal and offshore longline in 2022 update assessment](https://isc.fra.go.jp/pdf/PBF/ISC22_PBF_1/ISC_22_PBFWG_1_01_Tsukahara.pdf) — `ISC_22_PBFWG_1_01`
+- [Input data of Pacific bluefin tuna fisheries for stock assessment model, Stock Synthesis 3; Update for 2022 assessment](https://isc.fra.go.jp/pdf/PBF/ISC22_PBF_1/ISC_22_PBFWG_1_02_Nishikawa.pdf) — `ISC_22_PBFWG_1_02`
+- [CPUE standardization for striped marlin caught by the Japanese longliners in the western and central North Pacific from 1977 to 2023](https://isc.fra.go.jp/pdf/BILL/ISC25_BILL_1/ISC_25_BILLWG_1_01.pdf) — `ISC_25_BILLWG_1_01`
+- [On the Review of the Stock Assessment Results for Striped Marlin in the Western and Central North Pacific: Japan’s Response and a Proposal to the Billfish Working Group](https://isc.fra.go.jp/pdf/BILL/ISC25_BILL_1/ISC_25_BILLWG_1_03.pdf) — `ISC_25_BILLWG_1_03`
+- [Preliminary Joint CPUE standardization of Pacific stripe marlin in the Western and Central North Ocean by using the spatio-temporal modelling approach](https://isc.fra.go.jp/pdf/BILL/ISC25_BILL_1/ISC_25_BILLWG_1_07.pdf) — `ISC_25_BILLWG_1_07`
 
 **6 CCSBT ESC papers.** None carries a restriction notice, but CCSBT may limit ESC
 papers to members — confirm with the CCSBT Secretariat.

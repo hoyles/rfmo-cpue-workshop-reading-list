@@ -80,7 +80,7 @@ PORTAL = {  # verified 200 on 2026-08-28 unless noted
     "WCPFC":  ("https://meetings.wcpfc.int/", True),
     "SPC":    ("https://fame.spc.int/", True),
     "CCSBT":  ("https://www.ccsbt.org/", True),
-    "ISC":    ("https://isc.fra.go.jp/", False),
+    "ISC":    ("https://isc.fra.go.jp/working_groups/index.html", True),
 }
 
 
@@ -137,6 +137,10 @@ def title_of(rp, d=""):
 
 # Real titles for the journal set: embedded PDF metadata where it holds a title,
 # otherwise read off page 1. Never invented.
+# Titles for the ISC papers, harvested from ISC's own working-group meeting pages.
+_isc_t = SRC / "oa-check-output/_isc_titles.json"
+RFMO_TITLE = json.loads(_isc_t.read_text(encoding="utf-8")) if _isc_t.exists() else {}
+
 JOURNAL_TITLE = json.loads((SRC / "oa-check-output/_journal_titles.json").read_text(encoding="utf-8"))
 JOURNAL_TITLE.update({  # metadata absent or unusable; taken from page 1
     "Literature/IATTC/1-s2.0-S016578360300002X-main.pdf":
@@ -209,7 +213,9 @@ for org in sorted(pub):
     w("")
     for r in sorted(pub[org], key=lambda x: x["relative_path"]):
         d = docid(r["relative_path"], r["notes"])
-        w(f"- {title_of(r['relative_path'], d)}" + (f" — `{d}`" if d else ""))
+        t = RFMO_TITLE.get(r["relative_path"]) or title_of(r["relative_path"], d)
+        t = f"[{t}]({r['best_free_url']})" if r["best_free_url"] else t
+        w(f"- {t}" + (f" — `{d}`" if d else ""))
     w("")
 
 # --- verify
@@ -224,17 +230,27 @@ w("permission is needed before these are circulated.")
 w("")
 for r in sorted(isc_n, key=lambda x: x['relative_path']):
     _d = docid(r['relative_path'], r['notes'])
-    w(f"- {title_of(r['relative_path'], _d)}" + (f" — `{_d}`" if _d else ""))
+    _t = RFMO_TITLE.get(r['relative_path']) or title_of(r['relative_path'], _d)
+    _t = f"[{_t}]({r['best_free_url']})" if r["best_free_url"] else _t
+    w(f"- {_t}" + (f" — `{_d}`" if _d else ""))
 w("")
 w(f"**{len(isc_c)} other ISC papers** (ALBWG, BILLWG, PBFWG) carry no such notice anywhere in")
-w("the document. Link to the ISC site rather than resharing the files.")
+w("the document.")
+w("")
+for r in sorted(isc_c, key=lambda x: x["relative_path"]):
+    _d = docid(r["relative_path"], r["notes"])
+    _t = RFMO_TITLE.get(r["relative_path"]) or title_of(r["relative_path"], _d)
+    _t = f"[{_t}]({r['best_free_url']})" if r["best_free_url"] else _t
+    w(f"- {_t}" + (f" — `{_d}`" if _d else ""))
 w("")
 w(f"**{len(ccs)} CCSBT ESC papers.** None carries a restriction notice, but CCSBT may limit ESC")
 w("papers to members — confirm with the CCSBT Secretariat.")
 w("")
 for r in sorted(ccs, key=lambda x: x["relative_path"]):
     _d = docid(r["relative_path"], r["notes"])
-    w(f"- {title_of(r['relative_path'], _d)}" + (f" — `{_d}`" if _d else ""))
+    _t = RFMO_TITLE.get(r["relative_path"]) or title_of(r["relative_path"], _d)
+    _t = f"[{_t}]({r['best_free_url']})" if r["best_free_url"] else _t
+    w(f"- {_t}" + (f" — `{_d}`" if _d else ""))
 w("")
 
 # --- uncertain

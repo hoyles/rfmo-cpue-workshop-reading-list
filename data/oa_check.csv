@@ -1,0 +1,209 @@
+﻿relative_path,category,doi,doi_source,is_oa,oa_status,best_free_url,notes
+Literature/CapMarine-2022.-Stewart-Norman-Dave-Japp-Jodie-Reed-and-Colin-Attwood.-Investigating-RFMO-Bycatch-Observer-Coverage-in-Tuna-Longline-Fisheries..pdf,uncertain,,none,,,,"Consultancy report, not a journal article. Capricorn Marine Environmental (Pty) Ltd, Cape Town, 30 September 2022, contracted by THE PEW CHARITABLE TRUSTS. No DOI, no ISBN, and no distribution or confidentiality statement in the front matter. MANUAL CHECK: confirm Pew published it publicly, and link to their copy."
+Literature/CCSBT/ESC26_35_CCSBT_CPUE.pdf,rfmo_verify,,none,,,,"CCSBT ESC meeting paper. No restriction notice on the document itself, but CCSBT may limit ESC papers to members - verify with the CCSBT Secretariat."
+Literature/CCSBT/ESC30_11_CCSBT_joint_CPUE_2025.pdf,rfmo_verify,,none,,,,"CCSBT ESC meeting paper. No restriction notice on the document itself, but CCSBT may limit ESC papers to members - verify with the CCSBT Secretariat."
+Literature/CCSBT/ESC30_32_TW_CPUE_rev1.pdf,rfmo_verify,,none,,,,"CCSBT ESC meeting paper. No restriction notice on the document itself, but CCSBT may limit ESC papers to members - verify with the CCSBT Secretariat."
+Literature/CCSBT/ESC30_36_KR_Korean_SBT_CPUE_STD.pdf,rfmo_verify,,none,,,,"CCSBT ESC meeting paper. No restriction notice on the document itself, but CCSBT may limit ESC papers to members - verify with the CCSBT Secretariat."
+Literature/CCSBT/ESC30_BGD01_JP_LLOpeMonitoring.pdf,rfmo_verify,,none,,,,"CCSBT ESC meeting paper. No restriction notice on the document itself, but CCSBT may limit ESC papers to members - verify with the CCSBT Secretariat."
+Literature/CCSBT/ESC30_BGD02_JP_CPUE_GAM.pdf,rfmo_verify,,none,,,,"CCSBT ESC meeting paper. No restriction notice on the document itself, but CCSBT may limit ESC papers to members - verify with the CCSBT Secretariat."
+Literature/CCSBT/Hoyle et al 2022 CPUE standardization for SBT in the Korean longline fishery.pdf,journal,10.7717/peerj.13951,page_text,TRUE,gold,https://doi.org/10.7717/peerj.13951,"Not covered by any filename rule in the brief - sits in CCSBT/ but is not an ESC paper. PeerJ; page 1 states Creative Commons CC-BY 4.0, OPEN ACCESS. Unpaywall: PeerJ; host: publisher; licence: cc-by."
+Literature/fsaf114.pdf,journal,10.1093/icesjms/fsaf114,pdf_metadata,TRUE,gold,https://academic.oup.com/icesjms/article-pdf/82/7/fsaf114/63709766/fsaf114.pdf,Unpaywall: ICES Journal of Marine Science; host: publisher; licence: cc-by.
+Literature/General/Campbell 2015 Nuts and bolts CPUE.pdf,journal,10.1016/j.fishres.2014.07.004,pdf_metadata,FALSE,closed,,Unpaywall: Fisheries Research.
+Literature/General/Ducharme-Barth et al 2022 Impacts of fishery-dependent spatial sampling on CPUE - simulation & application.pdf,journal,10.1016/j.fishres.2021.106169,pdf_metadata,TRUE,hybrid,https://doi.org/10.1016/j.fishres.2021.106169,Page 1 states: open access under the CC BY license. Unpaywall: Fisheries Research; host: publisher; licence: cc-by.
+Literature/General/Hoyle et al 2024 CPUE good practices.pdf,journal,10.1016/j.fishres.2023.106860,pdf_metadata,FALSE,closed,,"Page 1 states: (c) 2023 Elsevier B.V., all rights reserved - no OA statement on the article itself. Unpaywall: Fisheries Research."
+Literature/General/Hsu et al 2022 Influence of spatial treatments on catch-per-unit-effort standardization - Saury example.pdf,journal,10.1016/j.fishres.2022.106440,pdf_metadata,FALSE,closed,,"Page 1 states: (c) 2022 Elsevier B.V., all rights reserved - no OA statement on the article itself. Unpaywall: Fisheries Research."
+Literature/General/IOTC-2024-WPTT26DP-16rev3_-_Effort_creep.pdf,rfmo_public,,none,,,,Primary record for the effort-creep paper; WCPFC_SPC/SC20-SA-IP-19 is the same document.
+Literature/General/SC10-SA-IP-10RecmethodsforstandardizingCPUEdata.pdf,rfmo_public,,none,,,,
+Literature/General/Yang et al 2025 Key factors affecting spatiotemporal variability of longline fishing in WCPO.pdf,journal,10.1016/j.fishres.2025.107605,pdf_metadata,FALSE,closed,,Unpaywall: Fisheries Research.
+Literature/IATTC/1-s2.0-S016578360300002X-main.pdf,journal,10.1016/S0165-7836(03)00002-X,pdf_metadata,FALSE,closed,,Unpaywall: Fisheries Research.
+Literature/IATTC/1-s2.0-S0165783604001638-main.pdf,journal,10.1016/j.fishres.2004.08.002,pdf_metadata,FALSE,closed,,Unpaywall: Fisheries Research.
+Literature/IATTC/1-s2.0-S0165783620301119-main.pdf,journal,10.1016/j.fishres.2020.105594,pdf_metadata,TRUE,green,http://repository.library.noaa.gov/view/noaa/30681/noaa_30681_DS1.pdf,Unpaywall: Fisheries Research; host: repository.
+Literature/IATTC/1-s2.0-S0165783620301284-main.pdf,journal,10.1016/j.fishres.2020.105611,pdf_metadata,FALSE,closed,,Unpaywall: Fisheries Research.
+Literature/IATTC/1-s2.0-S0165783624001759-main.pdf,journal,10.1016/j.fishres.2024.107111,pdf_metadata,FALSE,closed,,"Page 1 states: (c) 2024 Elsevier B.V., all rights reserved. Unpaywall: Fisheries Research."
+Literature/IATTC/BET-01-04_Investigation-of-CPUE-data-DRAFT.pdf,rfmo_public,,none,,,,
+Literature/IATTC/OTM-30-PRES_CPUE-as-an-index-of-relative-abundance.pdf,rfmo_public,,none,,,,
+Literature/IATTC/OTM-30-RPT_Workshop-to-improve-the-longline-indices-of-abundance-of-bigeye-and-yellowfin-tunas-in-the-eastern-Pacific-Ocean.pdf,rfmo_public,,none,,,,
+Literature/IATTC/RVDTT-01-02_Longline-index-of-relative-abundance-for-BET-in-the-EPO.pdf,rfmo_public,,none,,,,
+Literature/IATTC/RVDTT-01-RPT_1st-External-review-of-data-used-in-stock-assessments-of-tropical-tuna-in-the-eastern-Pacific-Ocean.pdf,rfmo_public,,none,,,,
+Literature/IATTC/SAC-04-05b_Analyses-of-Japanese-longline-catch-and-effort-data-for-bigeye.pdf,rfmo_public,,none,,,,
+Literature/IATTC/SAC-05-08b_Updated-operational-level-indices-for-Japanese-longline-fisheries.pdf,rfmo_public,,none,,,,
+Literature/IATTC/SAC-07-03d_Correction-of-longline-length-frequency-database.pdf,rfmo_public,,none,,,,
+Literature/IATTC/SAC-08-05d_Spatial-temporal-modeling-of-CPUE-data.pdf,rfmo_public,,none,,,,
+Literature/IATTC/SAC-08-07b_Preliminary-metadata-review-for-the-high-seas-longline-fishery.pdf,rfmo_public,,none,,,,
+Literature/IATTC/SAC-09-INF-F_TWN-EPO-CPUE-BET-YFT.pdf,rfmo_public,,none,,,,
+Literature/IATTC/SAC-10-INF-F_Evaluating-inconsistencies-in-the-yellowfin-abundance-indices.pdf,rfmo_public,,none,,,,
+Literature/IATTC/SAC-11-06_Bigeye-tuna-benchmark-assessment-2019.pdf,rfmo_public,,none,,,,
+Literature/IATTC/SAC-11-07_Yellowfin-tuna-benchmark-assessment-2019.pdf,rfmo_public,,none,,,,
+Literature/IATTC/SAC-11-INF-K_Korean-longline-catch-and-size-data-for-the-EPO.pdf,rfmo_public,,none,,,,
+Literature/IATTC/SAC-11-INF-L_Korean-longline-length-data.pdf,rfmo_public,,none,,,,
+Literature/IATTC/SAC-13-INF-M_Comparison-of-Indices-of-abundance-for-the-swordfish.pdf,rfmo_public,,none,,,,
+Literature/IATTC/SAC-13-INF-N_Japanese-logbook-analysis-for-the-southern-eastern-Swordfish.pdf,rfmo_public,,none,,,,
+Literature/IATTC/SAC-14-INF-Q_1st-workshop-on-improvements-in-data-collection-and-provision-(LL-fishery)-–-updated-recommendations.pdf,rfmo_public,,none,,,,
+Literature/IATTC/SAC-15-02_Bigeye-tuna-benchmark-assessment-2024.pdf,rfmo_public,,none,,,,
+Literature/IATTC/SAC-16-03_Yellowfin-benchmark-assessment-2025.pdf,rfmo_public,,none,,,,
+Literature/IATTC/SAC-16-09_Characterizing-and-classifying-longline-fleets-in-the-IATTC.pdf,rfmo_public,,none,,,,
+Literature/IATTC/SAC-16-INF-B_Longline-observer-data-reporting.pdf,rfmo_public,,none,,,,
+Literature/IATTC/SAC-16-INF-U_Joint-longline-indices.pdf,rfmo_public,,none,,,,
+Literature/IATTC/SAR-04_Methods-for-standardizing-catch-per-unit-effort-(CPUE).pdf,rfmo_public,,none,,,,
+Literature/IATTC/SAR-07-07_Longline-catch-per-unit-of-effort-(CPUE)-standardization.pdf,rfmo_public,,none,,,,
+Literature/IATTC/Spatio-temporal_modelling_IATTC.pdf,uncertain,,none,,,,"IATTC background note titled 'Spatio-temporal modelling at the IATTC'. No document number, no date, no author list, no DOI, so the issuing page cannot be identified from the file. MANUAL CHECK: locate on iattc.org or substitute a numbered IATTC document."
+"Literature/IATTC/Vol-16-No-2-1974-SHINGU,-CHIOMI,-PATRICK-K-TOMLINSON,-and-CLIFFORD-L-PETERSON_A-review-of-the-Japanese-longline-fishery-for-tunas-and-billfishes-in-the-EPO,-1967-1970.pdf",rfmo_public,,none,,,,
+"Literature/IATTC/Vol-19-No-1-1987-MIYABE,-NAOZUMI,-and-WILLIAM-H-BAYLIFF_A-review-of-the-Japanese-longline-fishery-for-tunas-and-billfishes-in-the-EPO,-1971-1980.pdf",rfmo_public,,none,,,,
+"Literature/IATTC/Vol-20-No-5-1992-NAKANO,-HIDEKI,-and-WILLIAM-H-BAYLIFF_A-review-of-the-Japanese-longline-fishery-for-tunas-and-billfishes-in-the-eastern-Pacific-Ocean,-1981-1987.pdf",rfmo_public,,none,,,,
+"Literature/IATTC/Vol-21-No-6-1999-UOSAKI,-KOJI,-and-WILLIAM-H-BAYLIFF_A-review-of-the-Japanese-longline-fishery-for-tunas-and-billfishes-in-the-eastern-Pacific-Ocean,-1988-1992.pdf",rfmo_public,,none,,,,
+"Literature/IATTC/Vol-22-No-4-2003-OKAMOTO,-HIROAKI,-and-WILLIAM-H-BAYLIFF_A-review-of-the-Japanese-longline-fishery-for-tunas-and-billfishes-in-the-eastern-Pacific-Ocean,-1993-1997.pdf",rfmo_public,,none,,,,
+"Literature/IATTC/Vol-24-No-1-2008-MATSUMOTO,-TAKAYUKI,-and-WILLIAM-H-BAYLIFF_A-review-of-the-Japanese-longline-fishery-for-tunas-and-billfishes-in-the-eastern-Pacific-Ocean,-1998-2003.pdf",rfmo_public,,none,,,,
+Literature/IATTC/YFT-02-PRES_Longline-index-of-abundance-and-length-frequency-for-yellowfin-tuna-in-the-eastern-Pacific-Ocean.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/ALB/ALB_SA_ENG.pdf,rfmo_public,,none,,,,"Report of the 2023 ICCAT Atlantic Albacore Stock Assessment Meeting (incl. MSE), hybrid, Madrid, 26-29 June 2023. ICCAT SCRS meeting report."
+Literature/ICCAT/ALB/Lauretta 2023 ALB USA CV080030145.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/ALB/Matsumoto 2023 ALB JP CV080030070.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/ALB/Matsumoto et al 2023 ALB JP CV080030083.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/ALB/Su et al 2023 ALB TWN CV080030134.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/BET/Hoyle et al 2019 BET joint CV075072033.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/BET/ICCAT 2025 Data prep meeting report for bigeye CV082050005.pdf,rfmo_public,,none,,,,"Collect. Vol. Sci. Pap. ICCAT, 82(5), SCRS/2025/005: 1-96 (2025)."
+Literature/ICCAT/BET/ICCAT 2025 Report of bigeye stock assessment meeting CV082050011.pdf,rfmo_public,,none,,,,"Collect. Vol. Sci. Pap. ICCAT, 82(5), SCRS/2025/011: 1-87 (2025)."
+Literature/ICCAT/BET/Matsumoto et al 2019 BET JP CV075072098.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/BET/Matsumoto et al 2025 BET joint SCRS_2025_084.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/BET/Su & Sung 2025 Chinese Taipei longline CPUE for bigeye CV082050089.pdf,rfmo_public,,none,,,,"Collect. Vol. Sci. Pap. ICCAT, 82(5), SCRS/2025/089: 1-14 (2025)."
+Literature/ICCAT/BET/Urtizberea et al 2025 SS assessment Atlantic bigeye tuna CV082050151.pdf,rfmo_public,,none,,,,"Collect. Vol. Sci. Pap. ICCAT, 82(5), SCRS/2025/151: 1-28 (2025)."
+Literature/ICCAT/BFT/Lauretta et al 2020 BFT joint CV078030366.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/BFT/Tsukahara et al 2021 BFT JP CV078030454.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/BFT/Tsukahara et al 2022 BFT JP CV079030245.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/BUM/Lauretta et al 2024 BUM USA CV08101029.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/Lauretta 2021 SKJ US CV079010318.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/Lauretta 2025 White marlin & spearfish USA CV082030053.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/Sailfish/Arocha et al 2023 Sail Venezuela CV080080178.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/Sailfish/Coelho et al 2023 Sailfish Portugal CV080080204.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/Sailfish/Kai 2023 Sailfish JP CV080080284.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/Sailfish/Lauretta 2023 Sailfish USA CV080080244.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/Sailfish/Mourato et al 2023 Sailfish Brazil CV080080226.pdf,rfmo_public,,none,,,,Primary record. See the Litx/Exported Items 31108 row - the Zotero export files this PDF under the wrong title and DOI.
+Literature/ICCAT/Sailfish/Ramos-Cartelle et al 2023 Sailfish Spain.pdf,rfmo_public,,none,,,,"Collect. Vol. Sci. Pap. ICCAT, 80(8): 359-370 (2023), SCRS/2023/079. Filename carries no CV number, so no filename rule matched it."
+Literature/ICCAT/Sailfish/Su & Huang 2023 Sailfish TWN CV080080259.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/Satoh Matsumoto 2017 Exploration of historical target changes in the Atlantic for yellowfin CV073010290.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/SWO/Anon 2022 SWO data prep.pdf,rfmo_public,,none,,,,"Collect. Vol. Sci. Pap. ICCAT, 79(2): 001-133 (2022), SCRS/2022/003."
+Literature/ICCAT/SWO/Anon 2022 SWO stock assessment.pdf,rfmo_public,,none,,,,"Collect. Vol. Sci. Pap. ICCAT, 79(2): 392-564 (2022), SCRS/2022/012."
+Literature/ICCAT/SWO/Coelho et al 2022 SWO Portugal CV079020265.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/SWO/Gillespie et al 2022 SWO joint CV079020565.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/SWO/Hanke & Gilespie 2022 SWO Canada CV079020186.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/SWO/Ijima 2022 SWO JP CV079020156.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/SWO/Ikkiss et al 2022 SWO Morocco CV079020325.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/SWO/Lauretta 2022 SWO USA obs CV079020300.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/SWO/Mourato et al 2022 SWO Brazil CV079020335.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/SWO/Parker 2022 SWO SthAfrica CV079020211.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/SWO/Su et al 2022 SWO TWN CV079020225.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/SWO/Su et al 2022 SWO TWN south CV079020235.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/YFT/Hoyle et al 2019 YFT joint CV076060241.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/YFT/Matsumoto et al 2020 YFT JP CV076060640.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/YFT/Matsumoto_et_al 2024 YFT joint GLM SCRS_2024_036_.pdf,rfmo_public,,none,,,,
+Literature/ICCAT/YFT/Satoh & Matsumoto 2017 Compare YFT catch effort & size data between NRIFSF and ICCAT databases CV073010318.pdf,rfmo_public,,none,,,,"Collect. Vol. Sci. Pap. ICCAT, 73(1): 318-322 (2017), SCRS/2016/037."
+Literature/ICCAT/YFT/Satoh et al 2024 YFT joint STM CV08102034.pdf,rfmo_public,,none,,,,
+Literature/ICCAT Longline Indices2.xlsx,excluded,,none,,,,Not a reference item (spreadsheet).
+Literature/IOTC/IOTC-2015-WPTT17-INF01_-_Guidelines_for_CPUE_and_SA.pdf,rfmo_public,,none,,,,
+Literature/IOTC/IOTC-2021-WPB19-11_Rev1.pdf,rfmo_public,,none,,,,
+Literature/IOTC/IOTC-2021-WPTT23DP-INF04.pdf,rfmo_public,,none,,,,
+Literature/IOTC/IOTC-2024-WPTT26DP-14_-_Yellowfin_Joint_longline_index.pdf,rfmo_public,,none,,,,
+Literature/IOTC/IOTC-2024-WPTT26DP-15_-_Bigeye_Joint_longline_index.pdf,rfmo_public,,none,,,,
+Literature/IOTC/IOTC-2025-SC28-12E-Yellowfin_CPUE.pdf,rfmo_public,,none,,,,
+Literature/IOTC/IOTC-2025-WPEB21AS-26_mekaring_Ochi_etal.pdf,rfmo_public,,none,,,,Primary record for Ochi et al. 2025 (meka-ring); the Traplines/ copy and WGEB-03-RD-B are the same document.
+Literature/IOTC/IOTC-2025-WPTmT09-09-Joint_CPUE_0.pdf,rfmo_public,,none,,,,
+Literature/Lazaris et al 2025 Multiple gears and preferential sampling.pdf,journal,10.1016/j.fishres.2025.107305,pdf_metadata,TRUE,hybrid,https://doi.org/10.1016/j.fishres.2025.107305,Page 1 states: open access under the CC BY license. Unpaywall: Fisheries Research; host: publisher; licence: cc-by.
+Literature/Traplines and meka-rings/CV08107064.pdf,duplicate,,none,,,,Duplicate of: Literature/Traplines and meka-rings/Garibaldi et al 2024 New challenge for assessing swordfish - use of innovative fishing gear.pdf
+Literature/Traplines and meka-rings/Garibaldi et al 2024 New challenge for assessing swordfish - use of innovative fishing gear.pdf,rfmo_public,,none,,,,"NOT a journal article despite the brief. Page 1 reads: Collect. Vol. Sci. Pap. ICCAT, 81(7), SCRS/2024/064: 1-9 (2024). ICCAT Collective Volume paper, free from iccat.int. No DOI."
+Literature/Traplines and meka-rings/Macias et al 2025 Spatiotemporal dbns and bycatch with longlines using traplines in the western mediterranean.pdf,rfmo_public,,none,,,,"NOT a journal article despite the brief. Page 1 reads: Collect. Vol. Sci. Pap. ICCAT, 82(6), SCRS/2025/098: 1-16 (2025). ICCAT Collective Volume paper, free from iccat.int. No DOI."
+Literature/Traplines and meka-rings/Ochi et al 2025 Info about ring-shasped branchline meka-ring in pelagic longline fisheries.pdf,duplicate,,none,,,,Duplicate of: Literature/IOTC/IOTC-2025-WPEB21AS-26_mekaring_Ochi_etal.pdf
+Literature/Traplines and meka-rings/Usui et al 2018 Itoman-type rings fishing method swordfish Japanese.pdf,uncertain,,none,,,,"Japanese-language original, Kanagawa Prefectural Fisheries Technology Center Research Report No. 9 (2018), accepted 2018-01-24. This is the source article for the 'translated.docx' the brief puts out of scope; it needs the same permission handling. Recommend excluding from the participant list."
+Literature/Traplines and meka-rings/Usui et al 2018 Itoman-type rings fishing method swordfish translated.docx,excluded,,none,,,,Out of scope per the brief: translation of a copyrighted Japanese original; needs separate permission handling.
+Literature/Traplines and meka-rings/WGEB-03-RD-B_Ring-shaped-branch-lines-(meka-ring)-in-pelagic-longline-fisheries.pdf,duplicate,,none,,,,Duplicate of: Literature/IOTC/IOTC-2025-WPEB21AS-26_mekaring_Ochi_etal.pdf
+Literature/WCPFC_ISC/2024_ISC_PBFWG-1_05.pdf,rfmo_verify,,none,,,,ISC working document; no do-not-cite notice found anywhere in the document.
+Literature/WCPFC_ISC/2024_ISC_PBFWG-1_07.pdf,rfmo_verify,,none,,,,ISC working document; no do-not-cite notice found anywhere in the document.
+Literature/WCPFC_ISC/2024_ISC_PBFWG-1_08.pdf,rfmo_verify,,none,,,,ISC working document; no do-not-cite notice found anywhere in the document.
+Literature/WCPFC_ISC/2024_ISC_PBFWG-2_06.pdf,rfmo_verify,,none,,,,ISC working document; no do-not-cite notice found anywhere in the document.
+Literature/WCPFC_ISC/ISC23_ALBWG-01_02.pdf,rfmo_verify,,none,,,,ISC working document; no do-not-cite notice found anywhere in the document.
+Literature/WCPFC_ISC/ISC23_ALBWG-01_03.pdf,rfmo_verify,,none,,,,ISC working document; no do-not-cite notice found anywhere in the document.
+Literature/WCPFC_ISC/ISC23_ALBWG-01_08.pdf,rfmo_verify,,none,,,,ISC working document; no do-not-cite notice found anywhere in the document.
+Literature/WCPFC_ISC/ISC23_PBF_2_07.pdf,rfmo_verify,,none,,,,ISC working document; no do-not-cite notice found anywhere in the document.
+Literature/WCPFC_ISC/ISC24-ALBWG-01_04.pdf,rfmo_verify,,none,,,,ISC working document; no do-not-cite notice found anywhere in the document.
+Literature/WCPFC_ISC/ISC24-ALBWG-01_06.pdf,rfmo_verify,,none,,,,ISC working document; no do-not-cite notice found anywhere in the document.
+Literature/WCPFC_ISC/ISC25-ALBWG-01_01.pdf,rfmo_verify,,none,,,,ISC working document; no do-not-cite notice found anywhere in the document.
+Literature/WCPFC_ISC/ISC25-ALBWG-01_02.pdf,rfmo_verify,,none,,,,ISC working document; no do-not-cite notice found anywhere in the document.
+Literature/WCPFC_ISC/ISC25-ALBWG-01_03.pdf,rfmo_verify,,none,,,,ISC working document; no do-not-cite notice found anywhere in the document.
+Literature/WCPFC_ISC/ISC25-ALBWG-01_04.pdf,rfmo_verify,,none,,,,ISC working document; no do-not-cite notice found anywhere in the document.
+Literature/WCPFC_ISC/ISC_2025_SHARKWG-1-01.pdf,rfmo_verify,,none,,,,PAGE 1 NOTICE PRESENT: 'Working document submitted to the ISC ... Document not to be cited without author's permission.' Seek author permission before circulating.
+Literature/WCPFC_ISC/ISC_2025_SHARKWG-1-02.pdf,rfmo_verify,,none,,,,PAGE 1 NOTICE PRESENT: 'Working document submitted to the ISC ... Document not to be cited without author's permission.' Seek author permission before circulating.
+Literature/WCPFC_ISC/ISC_2025_SHARKWG-1-03.pdf,rfmo_verify,,none,,,,PAGE 1 NOTICE PRESENT: 'Working document submitted to the ISC ... Document not to be cited without author's permission.' Seek author permission before circulating.
+Literature/WCPFC_ISC/ISC_2025_SHARKWG-1-04.pdf,rfmo_verify,,none,,,,PAGE 1 NOTICE PRESENT: 'Working document submitted to the ISC ... Document not to be cited without author's permission.' Seek author permission before circulating.
+Literature/WCPFC_ISC/ISC_2025_SHARKWG-1-05.pdf,rfmo_verify,,none,,,,PAGE 1 NOTICE PRESENT: 'Working document submitted to the ISC ... Document not to be cited without author's permission.' Seek author permission before circulating.
+Literature/WCPFC_ISC/ISC_20_BILLWG-03_01.pdf,rfmo_verify,,none,,,,ISC working document; no do-not-cite notice found anywhere in the document.
+Literature/WCPFC_ISC/ISC_20_BILLWG-03_02.pdf,rfmo_verify,,none,,,,ISC working document; no do-not-cite notice found anywhere in the document.
+Literature/WCPFC_ISC/ISC_20_BILLWG-03_03.pdf,rfmo_verify,,none,,,,ISC working document; no do-not-cite notice found anywhere in the document.
+Literature/WCPFC_ISC/ISC_20_BILLWG-03_04.pdf,rfmo_verify,,none,,,,ISC working document; no do-not-cite notice found anywhere in the document.
+Literature/WCPFC_ISC/ISC_21_PBFWG_2_01_Tsukahara.pdf,rfmo_verify,,none,,,,ISC working document; no do-not-cite notice found anywhere in the document.
+Literature/WCPFC_ISC/ISC_21_PBFWG_2_02_Chang.pdf,rfmo_verify,,none,,,,ISC working document; no do-not-cite notice found anywhere in the document.
+Literature/WCPFC_ISC/ISC_21_SHARKWG_2_01.pdf,rfmo_verify,,none,,,,PAGE 1 NOTICE PRESENT: 'Working document submitted to the ISC ... Document not to be cited without author's permission.' Seek author permission before circulating.
+Literature/WCPFC_ISC/ISC_21_SHARKWG_2_02.pdf,rfmo_verify,,none,,,,PAGE 1 NOTICE PRESENT: 'Working document submitted to the ISC ... Document not to be cited without author's permission.' Seek author permission before circulating.
+Literature/WCPFC_ISC/ISC_21_SHARKWG_2_03.pdf,rfmo_verify,,none,,,,PAGE 1 NOTICE PRESENT: 'Working document submitted to the ISC ... Document not to be cited without author's permission.' Seek author permission before circulating.
+Literature/WCPFC_ISC/ISC_21_SHARKWG_2_14.pdf,rfmo_verify,,none,,,,PAGE 1 NOTICE PRESENT: 'Working document submitted to the ISC ... Document not to be cited without author's permission.' Seek author permission before circulating.
+Literature/WCPFC_ISC/ISC_21_SHARKWG_2_15.pdf,rfmo_verify,,none,,,,PAGE 1 NOTICE PRESENT: 'Working document submitted to the ISC ... Document not to be cited without author's permission.' Seek author permission before circulating.
+Literature/WCPFC_ISC/ISC_22_BILLWG-02_02.pdf,rfmo_verify,,none,,,,ISC working document; no do-not-cite notice found anywhere in the document.
+Literature/WCPFC_ISC/ISC_22_BILLWG-02_06.pdf,rfmo_verify,,none,,,,ISC working document; no do-not-cite notice found anywhere in the document.
+Literature/WCPFC_ISC/ISC_22_BILLWG-02_07.pdf,rfmo_verify,,none,,,,ISC working document; no do-not-cite notice found anywhere in the document.
+Literature/WCPFC_ISC/ISC_22_PBFWG_1_01_Tsukahara.pdf,rfmo_verify,,none,,,,ISC working document; no do-not-cite notice found anywhere in the document.
+Literature/WCPFC_ISC/ISC_22_PBFWG_1_02_Nishikawa.pdf,rfmo_verify,,none,,,,ISC working document; no do-not-cite notice found anywhere in the document.
+Literature/WCPFC_ISC/ISC_22_SHARKWG_3_1.pdf,rfmo_verify,,none,,,,PAGE 1 NOTICE PRESENT: 'Working document submitted to the ISC ... Document not to be cited without author's permission.' Seek author permission before circulating.
+Literature/WCPFC_ISC/ISC_23_SHARKWG-1-1.pdf,rfmo_verify,,none,,,,PAGE 1 NOTICE PRESENT: 'Working document submitted to the ISC ... Document not to be cited without author's permission.' Seek author permission before circulating.
+Literature/WCPFC_ISC/ISC_23_SHARKWG-1-11.pdf,rfmo_verify,,none,,,,PAGE 1 NOTICE PRESENT: 'Working document submitted to the ISC ... Document not to be cited without author's permission.' Seek author permission before circulating.
+Literature/WCPFC_ISC/ISC_23_SHARKWG-1-12.pdf,rfmo_verify,,none,,,,PAGE 1 NOTICE PRESENT: 'Working document submitted to the ISC ... Document not to be cited without author's permission.' Seek author permission before circulating.
+Literature/WCPFC_ISC/ISC_23_SHARKWG-1-2.pdf,rfmo_verify,,none,,,,PAGE 1 NOTICE PRESENT: 'Working document submitted to the ISC ... Document not to be cited without author's permission.' Seek author permission before circulating.
+Literature/WCPFC_ISC/ISC_23_SHARKWG-1-3.pdf,rfmo_verify,,none,,,,PAGE 1 NOTICE PRESENT: 'Working document submitted to the ISC ... Document not to be cited without author's permission.' Seek author permission before circulating.
+Literature/WCPFC_ISC/ISC_23_SHARKWG-1-7.pdf,rfmo_verify,,none,,,,PAGE 1 NOTICE PRESENT: 'Working document submitted to the ISC ... Document not to be cited without author's permission.' Seek author permission before circulating.
+Literature/WCPFC_ISC/ISC_25_BILLWG_1_01.pdf,rfmo_verify,,none,,,,ISC working document; no do-not-cite notice found anywhere in the document.
+Literature/WCPFC_ISC/ISC_25_BILLWG_1_03.pdf,rfmo_verify,,none,,,,ISC working document; no do-not-cite notice found anywhere in the document.
+Literature/WCPFC_ISC/ISC_25_BILLWG_1_07.pdf,rfmo_verify,,none,,,,ISC working document; no do-not-cite notice found anywhere in the document.
+Literature/WCPFC_SPC/SC16-SA-IP-07 CPUE of Pacific-wide operational LL dataset for BE and YF.pdf,rfmo_public,,none,,,,
+Literature/WCPFC_SPC/SC19-SA-IP-13 Satoh_LL_gears.pdf,rfmo_public,,none,,,,
+Literature/WCPFC_SPC/SC19-SA-WP-02 YFT_BET_stock assessment spatial structure paper_Final_jm2.pdf,rfmo_public,,none,,,,
+Literature/WCPFC_SPC/SC19-SA-WP-03 YFT_BET_assesment_CPUE_Inputs_Finl_Rev1.pdf,rfmo_public,,none,,,,
+Literature/WCPFC_SPC/SC20-SA-IP-05 SPALB_stock_assess_background_analyses_Teears et al.pdf,rfmo_public,,none,,,,
+Literature/WCPFC_SPC/SC20-SA-IP-06-striped-marlin-inputs.pdf,rfmo_public,,none,,,,
+Literature/WCPFC_SPC/SC20-SA-IP-17_Catch and CPUE of MLS sport fishery_0.pdf,rfmo_public,,none,,,,
+Literature/WCPFC_SPC/SC20-SA-IP-18_Characterisation-CPUE-and-length-composition-analyses-of-NZ-albacore-tuna-fishery_0.pdf,rfmo_public,,none,,,,
+Literature/WCPFC_SPC/SC20-SA-IP-19_IOTC-2024-WPTT26DP-16rev3_Effort_creep in tuna assessments_0.pdf,duplicate,,none,,,,Duplicate of: Literature/General/IOTC-2024-WPTT26DP-16rev3_-_Effort_creep.pdf
+Literature/WCPFC_SPC/SC20-SA-WP-05 Project 122_LL_effort_creep_rev1.pdf,rfmo_public,,none,,,,
+Literature/WCPFC_SPC/SC21-SA-IP-11_Characterisation-and-CPUE-for-SWO-NZ-SLL-1993-2023_0.pdf,rfmo_public,,none,,,,
+Literature/WCPFC_SPC/SC21-SA-IP-12_KIM_SWO CPUE.pdf,rfmo_public,,none,,,,
+Literature/WCPFC_SPC/SC21-SA-IP-13_SWO-MLS-Obs-CPUE_posted.pdf,rfmo_public,,none,,,,
+Litx/Exported Items/Exported Items.ris,excluded,,none,,,,Not a reference item (the Zotero export file itself).
+Litx/Exported Items/files/31070/Matsumoto et al 2025 BET joint SCRS_2025_084.pdf,duplicate,,none,,,,Duplicate of: Literature/ICCAT/BET/Matsumoto et al 2025 BET joint SCRS_2025_084.pdf
+"Litx/Exported Items/files/31071/Lauretta - STANDARDIZED CATCH INDICES OF SKIJACK TUNA, KATSUWONUS PELAMIS, FROM THE UNITED STATES PELAGIC LONGL.pdf",duplicate,,none,,,,Duplicate of: Literature/ICCAT/Lauretta 2021 SKJ US CV079010318.pdf
+Litx/Exported Items/files/31072/Lauretta - U.S. PELAGIC LONGLINE INDICES OF ABUNDANCE OF WHITE MARLIN AND SPEARFISH (TETRAPTURUS SPP.).pdf,duplicate,,none,,,,Duplicate of: Literature/ICCAT/Lauretta 2025 White marlin & spearfish USA CV082030053.pdf
+Litx/Exported Items/files/31075/Satoh et al. - STANDARDIZED YELLOWFIN TUNA CPUE OF THE MULTIPLE LONGLINE FLEETS BY VECTOR AUTOREGRESSIVE SPATIOTEMP.pdf,duplicate,,none,,,,Duplicate of: Literature/ICCAT/YFT/Satoh et al 2024 YFT joint STM CV08102034.pdf
+Litx/Exported Items/files/31076/Hoyle et al. - COLLABORATIVE STUDY OF YELLOWFIN TUNA CPUE FROM MULTIPLE ATLANTIC OCEAN LONGLINE FLEETS IN 2019.pdf,duplicate,,none,,,,Duplicate of: Literature/ICCAT/YFT/Hoyle et al 2019 YFT joint CV076060241.pdf
+Litx/Exported Items/files/31077/Matsumoto et al. - STANDARDIZATION OF YELLOWFIN TUNA CPUE IN THE ATLANTIC OCEAN BY THE JAPANESE LONGLINE FISHERY WHICH.pdf,duplicate,,none,,,,Duplicate of: Literature/ICCAT/YFT/Matsumoto et al 2020 YFT JP CV076060640.pdf
+Litx/Exported Items/files/31078/Matsumoto et al. - COLLABORATIVE STUDY OF YELLOWFIN TUNA CPUE FROM MULTIPLE ATLANTIC OCEAN LONGLINE FLEETS IN 2024.pdf,duplicate,,none,,,,Duplicate of: Literature/ICCAT/YFT/Matsumoto_et_al 2024 YFT joint GLM SCRS_2024_036_.pdf
+Litx/Exported Items/files/31083/Su et al. - CATCH PER UNIT EFFORT STANDARDIZATION OF SWORDFISH (XIPHIAS GLADIUS) FOR THE CHINESE TAIPEI TUNA LON.pdf,duplicate,,none,,,,Duplicate of: Literature/ICCAT/SWO/Su et al 2022 SWO TWN south CV079020235.pdf
+Litx/Exported Items/files/31084/Coelho et al. - STANDARDIZED CPUE FOR SWORDFISH CAPTURED BY THE PORTUGUESE PELAGIC LONGLINE FISHERY IN THE NORTH ATL.pdf,duplicate,,none,,,,Duplicate of: Literature/ICCAT/SWO/Coelho et al 2022 SWO Portugal CV079020265.pdf
+Litx/Exported Items/files/31085/Gillespie et al. - UPDATED COMBINED BIOMASS INDEX OF ABUNDANCE OF THE NORTH ATLANTIC SWORDFISH STOCK 1963-2020.pdf,duplicate,,none,,,,Duplicate of: Literature/ICCAT/SWO/Gillespie et al 2022 SWO joint CV079020565.pdf
+Litx/Exported Items/files/31086/Hanke and Gilespie - A RELATIVE INDEX OF ATLANTIC SWORDFISH ABUNDANCE BASED ON CANADIAN PELAGIC LONGLINE DATA (1962 TO 20.pdf,duplicate,,none,,,,Duplicate of: Literature/ICCAT/SWO/Hanke & Gilespie 2022 SWO Canada CV079020186.pdf
+Litx/Exported Items/files/31087/Iijima - CPUE STANDARDIZATION FOR ATLANTIC SWORDFISH CAUGHT BY JAPANESE LONGLINE FISHERY THE GLMM ANALISIS U.pdf,duplicate,,none,,,,Duplicate of: Literature/ICCAT/SWO/Ijima 2022 SWO JP CV079020156.pdf
+Litx/Exported Items/files/31088/Ikkiss et al. - UPDATED STANDARDIZED CATCH RATE OF SWORDFISH (XIPHIAS GLADIUS) FROM THE MOROCCAN LONGLINE FISHERY OP.pdf,duplicate,,none,,,,Duplicate of: Literature/ICCAT/SWO/Ikkiss et al 2022 SWO Morocco CV079020325.pdf
+"Litx/Exported Items/files/31089/Lauretta - STANDARDIZED CATCH INDICES OF ATLANTIC SWORDFISH, XIPHIAS GLADIUS, FROM THE UNITED STATES PELAGIC LO.pdf",duplicate,,none,,,,Duplicate of: Literature/ICCAT/SWO/Lauretta 2022 SWO USA obs CV079020300.pdf
+Litx/Exported Items/files/31090/Mourato et al. - CATCH RATES OF SWORDFISH FROM BRAZILIAN LONGLINE FISHERIES IN THE SOUTH ATLANTIC (1994-2020).pdf,duplicate,,none,,,,Duplicate of: Literature/ICCAT/SWO/Mourato et al 2022 SWO Brazil CV079020335.pdf
+Litx/Exported Items/files/31091/Parker - STANDARDISED CATCH RATES OF SWORDFISH (XIPHIAS GLADIUS) FOR THE SOUTH AFRICAN PELAGIC LONGLINE FISHE.pdf,duplicate,,none,,,,Duplicate of: Literature/ICCAT/SWO/Parker 2022 SWO SthAfrica CV079020211.pdf
+Litx/Exported Items/files/31092/Su et al. - DEVELOPING ABUNDANCE INDEX OF SWORDFISH (XIPHIAS GLADIUS) WITH CONSIDERATION OF TARGETING SHIFT FOR.pdf,duplicate,,none,,,,Duplicate of: Literature/ICCAT/SWO/Su et al 2022 SWO TWN CV079020225.pdf
+Litx/Exported Items/files/31103/Su and Huang - CPUE STANDARDIZATION FOR SAILFISH (ISTIOPHORUS PLATYPTERUS) CAUGHT IN THE CHINESE TAIPEI TUNA LONGLI.pdf,duplicate,,none,,,,Duplicate of: Literature/ICCAT/Sailfish/Su & Huang 2023 Sailfish TWN CV080080259.pdf
+Litx/Exported Items/files/31104/Arocha et al. - STANDARDIZED CATCH RATES AND SIZE DISTRIBUTION FOR ATLANTIC SAILFISH FROM THE VENEZUELAN PELAGIC LON.pdf,duplicate,,none,,,,Duplicate of: Literature/ICCAT/Sailfish/Arocha et al 2023 Sail Venezuela CV080080178.pdf
+Litx/Exported Items/files/31105/Coelho et al. - UPDATED STANDARDIZATION OF ATLANTIC SAILFISH (ISTIOPHORUS ALBICANS) CATCH RATES IN THE EAST ATLANTIC.pdf,duplicate,,none,,,,Duplicate of: Literature/ICCAT/Sailfish/Coelho et al 2023 Sailfish Portugal CV080080204.pdf
+Litx/Exported Items/files/31106/Kai - SPATIO-TEMPORAL MODEL FOR CPUE STANDARDIZATION APPLICATION TO EASTERN ATLANTIC SAILFISH CAUGHT BY J.pdf,duplicate,,none,,,,Duplicate of: Literature/ICCAT/Sailfish/Kai 2023 Sailfish JP CV080080284.pdf
+Litx/Exported Items/files/31107/Lauretta - U.S. PELAGIC LONGLINE STANDARDIZED INDICES OF SAILFISH (ISTIOPHORUS ALBICANS) RELATIVE ABUNDANCE.pdf,duplicate,,none,,,,Duplicate of: Literature/ICCAT/Sailfish/Lauretta 2023 Sailfish USA CV080080244.pdf
+"Litx/Exported Items/files/31108/Mourato et al. - 2014 - Short-term movements and habitat preferences of sailfish, Istiophorus platypterus (Istiophoridae), a.pdf",duplicate,,none,,,,"ZOTERO METADATA MISMATCH - the one RIS record carrying a DOI. The RIS claims Mourato et al. 2014, Neotropical Ichthyology, DOI 10.1590/1982-0224-20130102. The attached PDF is actually CATCH RATES OF SAILFISH FROM BRAZILIAN LONGLINE FISHERIES IN THE WESTERN ATLANTIC (1991-2022), SCRS/2023/092, Collect. Vol. Sci. Pap. ICCAT 80(8): 226-235, byte-identical to the ICCAT/Sailfish copy. The RIS DOI was NOT used. The 2014 journal article is not in this folder. Duplicate of: Literature/ICCAT/Sailfish/Mourato et al 2023 Sailfish Brazil CV080080226.pdf"
+Litx/Exported Items/files/31109/Ramos-Cartelle et al. - UPDATE THE STANDARDIZED CATCH RATES OF SAILFISH (ISTIOPHORUS ALBICANS) CAUGHT AS BYCATCH OF THE SPAN.pdf,duplicate,,none,,,,Duplicate of: Literature/ICCAT/Sailfish/Ramos-Cartelle et al 2023 Sailfish Spain.pdf
+Litx/Exported Items/files/31117/Lauretta et al. - BLUE MARLIN (MAKAIRA NIGRICANS) STANDARDIZED INDICES OF ABUNDANCE FROM THE U.S. PELAGIC LONGLINE AND.pdf,duplicate,,none,,,,Duplicate of: Literature/ICCAT/BUM/Lauretta et al 2024 BUM USA CV08101029.pdf
+Litx/Exported Items/files/31119/Tsukahara et al. - THE STANDARDIZED CPUE FOR JAPANESE LONGLINE FISHERY IN THE ATLANTIC UP TO 2021 FISHING YEAR.pdf,duplicate,,none,,,,Duplicate of: Literature/ICCAT/BFT/Tsukahara et al 2022 BFT JP CV079030245.pdf
+Litx/Exported Items/files/31120/Lauretta et al. - MULTINATIONAL PELAGIC LONGLINE INDEX OF BLUEFIN TUNA RELATIVE ABUNDANCE IN THE GULF OF MEXICO.pdf,duplicate,,none,,,,Duplicate of: Literature/ICCAT/BFT/Lauretta et al 2020 BFT joint CV078030366.pdf
+Litx/Exported Items/files/31121/Tsukahara et al. - THE STANDARDIZED BLUEFIN CPUE OF JAPANESE LONGLINE FISHERY IN THE WEST ATLANTIC UP TO 2020 FISHING Y.pdf,duplicate,,none,,,,Duplicate of: Literature/ICCAT/BFT/Tsukahara et al 2021 BFT JP CV078030454.pdf
+Litx/Exported Items/files/31125/Matsumoto et al. - STANDARDIZATION OF BIGEYE TUNA CPUE IN THE ATLANTIC OCEAN BY THE JAPANESE LONGLINE FISHERY WHICH INC.pdf,duplicate,,none,,,,Duplicate of: Literature/ICCAT/BET/Matsumoto et al 2019 BET JP CV075072098.pdf
+Litx/Exported Items/files/31126/Hoyle et al. - COLLABORATIVE STUDY OF BIGEYE TUNA CPUE FROM MULTIPLE ATLANTIC OCEAN LONGLINE FLEETS IN 2018.pdf,duplicate,,none,,,,Duplicate of: Literature/ICCAT/BET/Hoyle et al 2019 BET joint CV075072033.pdf
+Litx/Exported Items/files/31129/Su and Huang - REGIONALLY INFORMED ABUNDANCE INDICES OF ALBACORE TUNA IN THE NORTH ATLANTIC OCEAN FOR THE CHINESE T.pdf,duplicate,,none,,,,Duplicate of: Literature/ICCAT/ALB/Su et al 2023 ALB TWN CV080030134.pdf
+"Litx/Exported Items/files/31130/Lauretta - STANDARDIZED INDICES OF ALBACORE, THUNNUS ALALUNGA, FROM THE UNITED STATES PELAGIC LONGLINE FISHERY.pdf",duplicate,,none,,,,Duplicate of: Literature/ICCAT/ALB/Lauretta 2023 ALB USA CV080030145.pdf
+Litx/Exported Items/files/31131/Matsumoto - REVIEW OF JAPANESE LONGLINE FISHERY AND ITS ALBACORE CATCH IN THE NORTH ATLANTIC OCEAN.pdf,duplicate,,none,,,,Duplicate of: Literature/ICCAT/ALB/Matsumoto 2023 ALB JP CV080030070.pdf
+Litx/Exported Items/files/31132/Matsumoto et al. - STANDARDIZED CPUE FOR NORTH ATLANTIC ALBACORE BY THE JAPANESE LONGLINE FISHERY.pdf,duplicate,,none,,,,Duplicate of: Literature/ICCAT/ALB/Matsumoto et al 2023 ALB JP CV080030083.pdf

@@ -1,0 +1,170 @@
+OPEN-ACCESS CHECK - Global Joint Tuna RFMO Longline CPUE Technical Workshop
+Yokohama, 12-16 October 2026
+Source: Literature/ and Litx/ under joint_RFMO_CPUE_meeting (read-only; nothing was modified)
+==============================================================================
+
+COUNTS BY CATEGORY
+------------------------------------------------------------------------------
+  rfmo_public     100   free from the issuing RFMO; share the org's link
+  rfmo_verify      51   RFMO papers needing a manual permissions check
+  journal          13   journal articles - the Unpaywall lookup targets
+  uncertain         3   could not be resolved from the file; needs a human look
+  duplicate        38   same document already recorded elsewhere in the folder
+  excluded          3   not a reference item, or out of scope per the brief
+  TOTAL           208   files examined
+  (unique)        167   distinct shareable items
+
+
+JOURNAL ITEMS WITH NO FREE VERSION FOUND
+------------------------------------------------------------------------------
+  8 of 13 journal items have no free version.
+  These need a different solution: an author-supplied accepted manuscript, an
+  Elsevier Share Link, or a DOI link with a note that access varies.
+
+  Literature/General/Campbell 2015 Nuts and bolts CPUE.pdf
+      DOI 10.1016/j.fishres.2014.07.004    https://doi.org/10.1016/j.fishres.2014.07.004
+      is_oa=FALSE oa_status=closed
+      Unpaywall: Fisheries Research.
+  Literature/General/Hoyle et al 2024 CPUE good practices.pdf
+      DOI 10.1016/j.fishres.2023.106860    https://doi.org/10.1016/j.fishres.2023.106860
+      is_oa=FALSE oa_status=closed
+      Page 1 states: (c) 2023 Elsevier B.V., all rights reserved - no OA statement on the article itself. Unpaywall: Fisheries Research.
+  Literature/General/Hsu et al 2022 Influence of spatial treatments on catch-per-unit-effort standardization - Saury example.pdf
+      DOI 10.1016/j.fishres.2022.106440    https://doi.org/10.1016/j.fishres.2022.106440
+      is_oa=FALSE oa_status=closed
+      Page 1 states: (c) 2022 Elsevier B.V., all rights reserved - no OA statement on the article itself. Unpaywall: Fisheries Research.
+  Literature/General/Yang et al 2025 Key factors affecting spatiotemporal variability of longline fishing in WCPO.pdf
+      DOI 10.1016/j.fishres.2025.107605    https://doi.org/10.1016/j.fishres.2025.107605
+      is_oa=FALSE oa_status=closed
+      Unpaywall: Fisheries Research.
+  Literature/IATTC/1-s2.0-S016578360300002X-main.pdf
+      DOI 10.1016/S0165-7836(03)00002-X    https://doi.org/10.1016/S0165-7836(03)00002-X
+      is_oa=FALSE oa_status=closed
+      Unpaywall: Fisheries Research.
+  Literature/IATTC/1-s2.0-S0165783604001638-main.pdf
+      DOI 10.1016/j.fishres.2004.08.002    https://doi.org/10.1016/j.fishres.2004.08.002
+      is_oa=FALSE oa_status=closed
+      Unpaywall: Fisheries Research.
+  Literature/IATTC/1-s2.0-S0165783620301284-main.pdf
+      DOI 10.1016/j.fishres.2020.105611    https://doi.org/10.1016/j.fishres.2020.105611
+      is_oa=FALSE oa_status=closed
+      Unpaywall: Fisheries Research.
+  Literature/IATTC/1-s2.0-S0165783624001759-main.pdf
+      DOI 10.1016/j.fishres.2024.107111    https://doi.org/10.1016/j.fishres.2024.107111
+      is_oa=FALSE oa_status=closed
+      Page 1 states: (c) 2024 Elsevier B.V., all rights reserved. Unpaywall: Fisheries Research.
+
+
+JOURNAL ITEMS WITH A FREE VERSION
+------------------------------------------------------------------------------
+  Literature/CCSBT/Hoyle et al 2022 CPUE standardization for SBT in the Korean longline fishery.pdf
+      gold  https://doi.org/10.7717/peerj.13951
+  Literature/fsaf114.pdf
+      gold  https://academic.oup.com/icesjms/article-pdf/82/7/fsaf114/63709766/fsaf114.pdf
+  Literature/General/Ducharme-Barth et al 2022 Impacts of fishery-dependent spatial sampling on CPUE - simulation & application.pdf
+      hybrid  https://doi.org/10.1016/j.fishres.2021.106169
+  Literature/IATTC/1-s2.0-S0165783620301119-main.pdf
+      green  http://repository.library.noaa.gov/view/noaa/30681/noaa_30681_DS1.pdf
+  Literature/Lazaris et al 2025 Multiple gears and preferential sampling.pdf
+      hybrid  https://doi.org/10.1016/j.fishres.2025.107305
+
+
+ITEMS NEEDING A HUMAN DECISION
+------------------------------------------------------------------------------
+
+A. ISC working papers carrying a do-not-cite notice on page 1
+   17 of the 51 rfmo_verify items. All are ISC Shark WG papers.
+   Wording: 'Working document submitted to the ISC ... Document not to be cited
+   without author's permission.' Seek author permission before circulating these.
+     Literature/WCPFC_ISC/ISC_2025_SHARKWG-1-01.pdf
+     Literature/WCPFC_ISC/ISC_2025_SHARKWG-1-02.pdf
+     Literature/WCPFC_ISC/ISC_2025_SHARKWG-1-03.pdf
+     Literature/WCPFC_ISC/ISC_2025_SHARKWG-1-04.pdf
+     Literature/WCPFC_ISC/ISC_2025_SHARKWG-1-05.pdf
+     Literature/WCPFC_ISC/ISC_21_SHARKWG_2_01.pdf
+     Literature/WCPFC_ISC/ISC_21_SHARKWG_2_02.pdf
+     Literature/WCPFC_ISC/ISC_21_SHARKWG_2_03.pdf
+     Literature/WCPFC_ISC/ISC_21_SHARKWG_2_14.pdf
+     Literature/WCPFC_ISC/ISC_21_SHARKWG_2_15.pdf
+     Literature/WCPFC_ISC/ISC_22_SHARKWG_3_1.pdf
+     Literature/WCPFC_ISC/ISC_23_SHARKWG-1-1.pdf
+     Literature/WCPFC_ISC/ISC_23_SHARKWG-1-11.pdf
+     Literature/WCPFC_ISC/ISC_23_SHARKWG-1-12.pdf
+     Literature/WCPFC_ISC/ISC_23_SHARKWG-1-2.pdf
+     Literature/WCPFC_ISC/ISC_23_SHARKWG-1-3.pdf
+     Literature/WCPFC_ISC/ISC_23_SHARKWG-1-7.pdf
+
+B. ISC working papers with NO such notice anywhere in the document
+   28 items (ALBWG, BILLWG and PBFWG papers). Scanned in full, not just page 1.
+   Lower risk, but ISC posts these on isc.fra.go.jp - link there rather than resharing.
+
+C. CCSBT ESC papers
+   6 items. None carries a restriction notice on the document itself, but
+   CCSBT may limit ESC papers to members. Per the brief this was flagged only, not
+   tested. Confirm with the CCSBT Secretariat before sharing.
+     Literature/CCSBT/ESC26_35_CCSBT_CPUE.pdf
+     Literature/CCSBT/ESC30_11_CCSBT_joint_CPUE_2025.pdf
+     Literature/CCSBT/ESC30_32_TW_CPUE_rev1.pdf
+     Literature/CCSBT/ESC30_36_KR_Korean_SBT_CPUE_STD.pdf
+     Literature/CCSBT/ESC30_BGD01_JP_LLOpeMonitoring.pdf
+     Literature/CCSBT/ESC30_BGD02_JP_CPUE_GAM.pdf
+
+D. Unresolved from the file alone
+   Literature/CapMarine-2022.-Stewart-Norman-Dave-Japp-Jodie-Reed-and-Colin-Attwood.-Investigating-RFMO-Bycatch-Observer-Coverage-in-Tuna-Longline-Fisheries..pdf
+     Consultancy report, not a journal article. Capricorn Marine Environmental (Pty) Ltd, Cape Town, 30 September 2022, contracted by THE PEW CHARITABLE TRUSTS. No DOI, no ISBN, and no distribution or confidentiality statement in the front matter. MANUAL CHECK: confirm Pew published it publicly, and link to their copy.
+
+   Literature/IATTC/Spatio-temporal_modelling_IATTC.pdf
+     IATTC background note titled 'Spatio-temporal modelling at the IATTC'. No document number, no date, no author list, no DOI, so the issuing page cannot be identified from the file. MANUAL CHECK: locate on iattc.org or substitute a numbered IATTC document.
+
+   Literature/Traplines and meka-rings/Usui et al 2018 Itoman-type rings fishing method swordfish Japanese.pdf
+     Japanese-language original, Kanagawa Prefectural Fisheries Technology Center Research Report No. 9 (2018), accepted 2018-01-24. This is the source article for the 'translated.docx' the brief puts out of scope; it needs the same permission handling. Recommend excluding from the participant list.
+
+
+CORRECTIONS TO THE ASSUMPTIONS IN THE TASK BRIEF
+------------------------------------------------------------------------------
+
+1. The Zotero export is at Litx/Exported Items/, not ICCAT/Exported Items/.
+
+2. It holds 34 records but only ONE DOI, and that DOI is attached to the wrong
+   PDF. The record 'Mourato et al. 2014 - Short-term movements ... sailfish'
+   (DOI 10.1590/1982-0224-20130102, Neotropical Ichthyology) has as its attachment
+   a byte-identical copy of ICCAT/Sailfish/Mourato et al 2023 Sailfish Brazil
+   CV080080226.pdf - an ICCAT Collective Volume paper on Brazilian sailfish catch
+   rates. The brief listed this file as a journal-article lookup target; it is not
+   one. The DOI was not used, per the rule against guessing. The 2014 article is
+   not present in this folder.
+
+3. Three files the brief listed as journal articles are ICCAT Collective Volume
+   papers, free from iccat.int, with no DOI:
+     Garibaldi et al 2024  -> Collect. Vol. Sci. Pap. ICCAT 81(7), SCRS/2024/064
+     Macias et al 2025     -> Collect. Vol. Sci. Pap. ICCAT 82(6), SCRS/2025/098
+     Litx .../31108/Mourato -> Collect. Vol. Sci. Pap. ICCAT 80(8), SCRS/2023/092
+   That reduces the lookup set from 16 to 13.
+
+4. One journal article was not covered by any rule in the brief:
+     Literature/CCSBT/Hoyle et al 2022 CPUE standardization for SBT in the Korean
+     longline fishery.pdf - PeerJ, CC-BY 4.0, stated open access on page 1.
+   It sits in CCSBT/ but is not an ESC paper. Added to the journal set.
+
+5. The do-not-cite notice is not spread across ISC generally. It appears on 17 of
+   51 documents, and every one is a Shark Working Group paper. ALBWG, BILLWG and
+   PBFWG papers carry no such notice.
+
+6. Traplines and meka-rings/CV08107064.pdf is byte-identical to the Garibaldi et
+   al 2024 file in the same folder - a duplicate the brief did not list.
+
+7. The Ochi et al. 2025 meka-ring trio: the Traplines/ copy and WGEB-03-RD-B are
+   byte-identical; the IOTC copy is the same text with an IOTC-2025-WPEB21(AS)-26
+   header. The IOTC copy is recorded as primary.
+
+8. Literature/Traplines and meka-rings/Usui et al 2018 ... Japanese.pdf is the
+   copyrighted Japanese original of the translation the brief excludes. It needs
+   the same permission handling and is flagged uncertain, not shareable.
+
+METHOD NOTES
+------------------------------------------------------------------------------
+  - No file in Literature/ or Litx/ was modified, renamed, moved or deleted.
+  - No full-text PDF was downloaded.
+  - Duplicates were established by MD5 over file contents, not by filename.
+  - Every PDF opened had a text layer; no OCR was needed and none was run.
+  - No DOI was guessed or inferred from a filename.
